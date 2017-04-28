@@ -6,3 +6,5 @@ more new code for feature_a
 
 
 changes on master
+
+feature b changes
