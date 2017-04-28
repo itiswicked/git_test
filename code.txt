@@ -1,9 +1,7 @@
 code code feature a
 code new code code
 
-new code for feature a
-more new code for feature_a
-
+refactored some code to be even betterer
 
 changes on master
 
